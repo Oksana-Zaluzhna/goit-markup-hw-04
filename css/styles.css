@@ -343,7 +343,7 @@ ul {
   overflow: hidden;
 }
 
-.portfolio-item-overlay:hover .overlay-text {
+.portfolio-item:hover .overlay-text {
   transform: translateY(0);
 }
 
